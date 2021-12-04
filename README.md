@@ -1,6 +1,6 @@
 <h1 align="center">Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 
-<p align="left">My name is Renaldo Fareza Tambunan and I'm a passionate software developer. I'm from Indonesia, living in West Java and currently a junior student at President University. You can find me on <a href="linkedin.com/in/renaldo-fareza-tambunan" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Renaldo Fareza Tambunan" width="15" heigth="15"/></a>.</p>
+<p align="left">My name is Renaldo Fareza Tambunan and I'm a passionate software developer. I'm from Indonesia, living in West Java and currently a junior student at President University. You can find me on <a href="linkedin.com/in/renaldo-fareza-tambunan" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Renaldo Fareza Tambunan" width="15" heigth="15"/></a>.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
