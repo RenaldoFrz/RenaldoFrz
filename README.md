@@ -40,9 +40,9 @@
 <a href="https://github.com/RenaldoFrz/RenaldoFrz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Renaldofrz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-<a href="https://github.com/RenaldoFrz/flutter_iTalase">
+<!-- <a href="https://github.com/RenaldoFrz/flutter_iTalase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Renaldofrz&repo=flutter_iTalase&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 <!--
 **RenaldoFrz/RenaldoFrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
