@@ -1,4 +1,4 @@
-<h1 align="left">Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
+<h1 align="left">Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45px"></h1> 
 
 <p align="left">My name is Renaldo Fareza Tambunan and I'm a passionate software developer. I'm from Indonesia, living in West Java and currently a junior student at President University. You can find me on <a href="https://linkedin.com/in/renaldo-fareza-tambunan" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="Renaldo Fareza Tambunan" width="15" heigth="15"/></a>.</p>
 
